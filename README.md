@@ -34,6 +34,6 @@ Users can prioritize actions by creating and quantitatively analyzing mitigation
 
 ### A demo version of the application can be found at:
 
-[***https://exposurisk.shinyapps.io/demo-xposurx-app/***](https://exposurisk.shinyapps.io/demo-xposurx-app/){.uri}
+[***https://exposurisk.shinyapps.io/demo-xposurx-app/***](https://exposurisk.shinyapps.io/demo-xposurx-app/)
 
 For questions, email [contact\@xposurx.site](mailto:contact@xposurx.site)
