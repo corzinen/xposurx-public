@@ -1,4 +1,8 @@
-# ![](logo.jpg){width="29"} xposurx
+---
+---
+---
+
+# ![](logo.jpg){width="20"} xposurx
 
 Xposurx is a application that allows you to capture risks and quantify their exposures in your environment.
 
@@ -30,7 +34,7 @@ Calculate residual risks and estimate potential losses with insurance coverage t
 
 Users can prioritize actions by creating and quantitatively analyzing mitigation portfolios, helping them focus resources on the most critical risks and potential impacts.
 
-# A demo version of the application can be found at:
+### A demo version of the application can be found at:
 
 [***https://exposurisk.shinyapps.io/demo-xposurx-app/***](https://exposurisk.shinyapps.io/demo-xposurx-app/){.uri}
 
