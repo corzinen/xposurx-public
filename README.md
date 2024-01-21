@@ -1,8 +1,6 @@
----
----
----
+<img src="favicon.ico" width="48"/>
 
-# ![](logo.jpg){width="20"} xposurx
+# xposurx
 
 Xposurx is a application that allows you to capture risks and quantify their exposures in your environment.
 
